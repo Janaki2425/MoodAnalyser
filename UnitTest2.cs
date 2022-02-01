@@ -1,9 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Moodanalyser;
 
-namespace TestProject2
+namespace TestProject1
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTest2
     {
         [TestMethod]
         public void TestMethod1()
